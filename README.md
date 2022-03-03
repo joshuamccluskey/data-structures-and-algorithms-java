@@ -6,7 +6,10 @@
 
 ### Challenge 01
 
-Link: [Challenge 1](challengesreadmes/challenge-1/README.md)
+[Challenge 1 README](challengesreadmes/challenge-1/README.md)
+
+Path: 
+- challengesreadmes/challenge-1/README.md
 
 Method: `reverseArray`
 
@@ -14,7 +17,10 @@ Work Time: 50 minutes
 
 ### Challenge 02
 
-Link: [Challenge 2](challengesreadmes/challenge-2/README.md)
+[Challenge 2 README](challengesreadmes/challenge-2/README.md)
+
+Path: 
+- challengesreadmes/challenge-2/README.md
 
 Method: `insertMiddle`
 
@@ -22,7 +28,10 @@ Work Time: 50 minutes
 
 ### Challenge 03
 
-Link: [Challenge 3](challengesreadmes/challenge-3/README.md)
+[Challenge 3 README](challengesreadmes/challenge-3/README.md)
+
+Path: 
+- challengesreadmes/challenge-3/README.md
 
 Method: `binarySearch`
 
@@ -30,7 +39,10 @@ Work Time: 2 hours
 
 ### Challenge 04
 
-Link: [Challenge 4](challengesreadmes/challenge-4/README.md)
+[Challenge 4 README](challengesreadmes/challenge-4/README.md)
+
+Path: 
+- challengesreadmes/challenge-4/README.md
 
 Method: `sumArrArr`
 
@@ -38,7 +50,14 @@ Work Time: 2 hours
 
 ### Challenge 06
 
-Link: [Challenge 6](challengesreadmes/challenge-6/README.md)
+[Challenge 6 README](challengesreadmes/challenge-6/README.md)
+
+Path:
+- lib/src/main/java/datastructures/linkedlist/LinkedList.java
+- lib/src/main/java/datastructures/linkedlist/Node.java
+
+Test Path:
+- lib/src/test/java/datastructures/linkedlist/LinkedListTest.java
 
 Method: `insertAfter; insertBefore; append`
 
@@ -46,7 +65,14 @@ Work Time: 2 hours
 
 ### Challenge 07
 
-Link: [Challenge 7](challengesreadmes/challenge-7/README.md)
+[Challenge 7 README](challengesreadmes/challenge-7/README.md)
+
+Path:
+- lib/src/main/java/datastructures/linkedlist/LinkedList.java
+- lib/src/main/java/datastructures/linkedlist/Node.java
+
+Test Path:
+- lib/src/test/java/datastructures/linkedlist/LinkedListTest.java
 
 Method: `kthFromEnd`
 
@@ -54,7 +80,14 @@ Work Time: 2 hours
 
 ### Challenge 08
 
-Link: [Challenge 8](challengesreadmes/challenge-8/README.md)
+[Challenge 8 README](challengesreadmes/challenge-8/README.md)
+
+Path:
+- lib/src/main/java/datastructures/linkedlist/LinkedList.java
+- lib/src/main/java/datastructures/linkedlist/Node.java
+
+Test Path:
+- lib/src/test/java/datastructures/linkedlist/LinkedListTest.java
 
 Method: `zip`
 
@@ -62,7 +95,17 @@ Work Time: 1.5 hours
 
 ### Challenge 10
 
-Link: [Challenge 10](challengesreadmes/challenge-10/README.md)
+[Challenge 10 README](challengesreadmes/challenge-10/README.md)
+
+Path:
+- lib/src/main/java/datastructures/queue/Node.java
+- lib/src/main/java/datastructures/queue/Queue.java
+- lib/src/main/java/datastructures/stack/Node.java
+- lib/src/main/java/datastructures/stack/Stack.java
+
+Test Path:
+- lib/src/test/java/datastructures/queue/QueueTest.java
+- lib/src/test/java/datastructures/stack/StackTest.java
 
 Method: `pop; push; enqueue; dequeue ;peek; isEmpty`
 
@@ -70,7 +113,13 @@ Work Time: 2.5 hours
 
 ### Challenge 11
 
-Link: [Challenge 11](challengesreadmes/challenge-11/README.md)
+[Challenge 11 README](challengesreadmes/challenge-11/README.md)
+
+Path:
+- lib/src/main/java/codechallenges/pseudoqueue/PseudoQueue.java
+
+Test Path:
+- lib/src/test/java/codechallenges/pseudoqueue/PseudoQueueTest.java
 
 Method: `pseudoEnqueue; pseudoDequeue`
 
@@ -78,17 +127,26 @@ Work Time: 2 hours
 
 ### Challenge 12
 
-Link: [Challenge 12](challengesreadmes/challenge-12/README.md)
+[Challenge 12 README](challengesreadmes/challenge-12/README.md)
+
+Path:
+- lib/src/main/java/codechallenges/animalshelter/AnimalShelter.java
+- lib/src/main/java/codechallenges/animalshelter/Cat.java
+- lib/src/main/java/codechallenges/animalshelter/Dog.java
+
+Test Path:
+- lib/src/test/java/codechallenges/animalshelter/AnimalShelterTest.java
+- lib/src/test/java/codechallenges/animalshelter/CatTest.java
+- lib/src/test/java/codechallenges/animalshelter/DogTest.java
 
 Method: `enqueue; dequeue`
 
 Work Time: 2 hours
 
-### Challenge 12
+### Challenge 13
 
-Link: [Challenge 13](challengesreadmes/challenge-13/README.md)
+[Challenge 13 README](challengesreadmes/challenge-13/README.md)
 
 Method: `validateBrackets`
 
 Work Time: 2 hours
-# data-structures-and-algorithms-java

@@ -150,3 +150,17 @@ Work Time: 2 hours
 Method: `validateBrackets`
 
 Work Time: 2 hours
+
+### Challenge 15
+
+[Challenge 15 README](challengesreadmes/challenge-15/README.md)
+
+Method: `preOrderTraversal; inOrderTraversal; postOrderTraversal`
+
+Work Time: 3 hours
+
+[Challenge 16 README](challengesreadmes/challenge-16/README.md)
+
+Method: `getMaxValue`
+
+Work Time: 2 hours

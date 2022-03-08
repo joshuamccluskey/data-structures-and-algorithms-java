@@ -41,15 +41,15 @@ class BinaryTreeTest {
         assertTrue(true);
     }
 
-    @Test
-    void test_getMaxValue() {
-        BinaryTree cut = new BinaryTree();
-        Node currentNode = new Node(0);
-        Node root = new Node(2);
-        root.leftNode = new Node(3);
-        root.rightNode = new Node(1);
-        cut.getMaxValue(currentNode);
-        System.out.println("test_getMaxValue()");
-        assertTrue(true);
-    }
+//    @Test
+//    void test_getMaxValue() {
+//        BinaryTree cut = new BinaryTree();
+//        Node currentNode = new Node(0);
+//        Node root = new Node(2);
+//        root.leftNode = new Node(3);
+//        root.rightNode = new Node(1);
+//        cut.getMaxValue(currentNode);
+//        System.out.println("test_getMaxValue()");
+//        assertTrue(true);
+//    }
 }

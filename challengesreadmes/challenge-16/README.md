@@ -14,7 +14,7 @@ Get the max value in a binary tree
 
 Took the recursive approach to find the max value going back and forth between the left and the right.
 
-Big O notation: Time Complexity O(n) and Auxillary Space complexity O(n).
+Big O notation: Time Complexity O(n) and Auxiliary Space complexity O(n).
 
 
 #### Work Time: 2 hours

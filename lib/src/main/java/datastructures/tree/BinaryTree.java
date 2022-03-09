@@ -3,7 +3,7 @@ package datastructures.tree;
 import java.util.ArrayList;
 import datastructures.tree.Node;
 
-public class BinaryTree
+public class BinaryTree implements MaxValue
 {
     ArrayList<Integer> elementsPre = new ArrayList<>();
     ArrayList<Integer> elementsIn = new ArrayList<>();
@@ -45,5 +45,24 @@ public class BinaryTree
         elementsPre.add(root.value);
         System.out.println(elementsPre);
         return elementsIn;
+    }
+
+    public int getMaxValue (Node currentNode) {
+        int maxValue = currentNode.value;
+        if (currentNode == null) {
+            return maxValue; }
+
+
+        int leftValue = getMaxValue(currentNode.leftNode);
+        int rightValue = getMaxValue(currentNode.rightNode);
+
+        if (maxValue < leftValue){
+            maxValue = leftValue;
+        }
+        if (maxValue < rightValue){
+            maxValue = rightValue;
+        }
+
+        return maxValue;
     }
 }

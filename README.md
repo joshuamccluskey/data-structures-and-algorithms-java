@@ -164,3 +164,9 @@ Work Time: 3 hours
 Method: `getMaxValue`
 
 Work Time: 2 hours
+
+[Challenge 17 README](challengesreadmes/challenge-17/README.md)
+
+Method: `breadthFirst`
+
+Work Time: 1 hour

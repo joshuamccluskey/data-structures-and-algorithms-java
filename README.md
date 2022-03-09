@@ -149,6 +149,13 @@ Work Time: 2 hours
 
 Method: `validateBrackets`
 
+Path:
+- lib/src/main/java/codechallenges/validatebrackets/validatebrackets.java
+
+TestPath:
+- lib/src/test/java/codechallenges/validatebrackets/validatebracketsTest.java
+
+
 Work Time: 2 hours
 
 ### Challenge 15
@@ -157,13 +164,39 @@ Work Time: 2 hours
 
 Method: `preOrderTraversal; inOrderTraversal; postOrderTraversal`
 
+Path:
+- lib/src/main/java/datastructures/tree/BinaryTree.java
+- lib/src/main/java/datastructures/tree/BinarySearchTree.java
+
+Test Path: 
+
+- lib/src/test/java/datastructures/tree/BinarySearchTreeTest.java
+- lib/src/test/java/datastructures/tree/BinaryTreeTest.java
+
 Work Time: 3 hours
 
 [Challenge 16 README](challengesreadmes/challenge-16/README.md)
 
+### Challenge 16
+
 Method: `getMaxValue`
 
+Path: 
+- lib/src/main/java/datastructures/tree/BinaryTree.java
+- lib/src/main/java/datastructures/tree/MaxValue.java
+
+Test Path:
+- lib/src/test/java/datastructures/tree/BinaryTreeTest.java
+
 Work Time: 2 hours
+
+### Challenge 17
+
+Path:
+- lib/src/main/java/codechallenges/treesbreadthfirst/treesbreadthfirst.java
+
+Test Path:
+- lib/src/test/java/codechallenges/validatebrackets/validatebracketsTest.java
 
 [Challenge 17 README](challengesreadmes/challenge-17/README.md)
 

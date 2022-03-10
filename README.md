@@ -203,3 +203,17 @@ Test Path:
 Method: `breadthFirst`
 
 Work Time: 1 hour
+
+### Challenge 18
+
+Path:
+- lib/src/main/java/codechallenges/treefizzbuzz/TreeFizzBuzz.java
+
+Test Path:
+- lib/src/test/java/codechallenges/treefizzbuzz/TreeFizzBuzzTest.java
+
+[Challenge 18 README](challengesreadmes/challenge-18/README.md)
+
+Method: `treeFizzBuzz`
+
+Work Time: 1 hour

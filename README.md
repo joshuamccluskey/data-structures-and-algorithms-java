@@ -223,8 +223,19 @@ Work Time: 1 hour
 Path:
 - challengesreadmes/challenge-19/README.md
 
-[Challenge 18 README](challengesreadmes/challenge-19/README.md)
+[Challenge 19 README](challengesreadmes/challenge-19/README.md)
 
 Method: `SumOfATree`
 
 Work Time: 30 Minutes
+
+
+### Challenge 26
+
+
+
+[BLOG](challengesreadmes/challenge-26/BLOG.md)
+
+Method: `insertionSort`
+
+Work Time: 1 Hour

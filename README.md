@@ -238,4 +238,4 @@ Work Time: 30 Minutes
 
 Method: `insertionSort`
 
-Work Time: 1 Hour
+Work Time: 1 Hour Blog + 1 Hour Code and Test

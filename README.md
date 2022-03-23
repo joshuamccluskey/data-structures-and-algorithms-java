@@ -238,4 +238,18 @@ Work Time: 30 Minutes
 
 Method: `insertionSort`
 
+Path: lib/src/main/java/codechallenges/insertsort/InsertSort.java
+Test: lib/src/test/java/codechallenges/insertsort/InsertSortTest.java
+
 Work Time: 1 Hour Blog + 1 Hour Code and Test
+
+
+### Challenge 27
+
+
+
+[BLOG](challengesreadmes/challenge-27/BLOG.md)
+
+Method: `mergeSort`
+
+Work Time: 1 Hour Blog

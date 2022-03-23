@@ -239,3 +239,14 @@ Work Time: 30 Minutes
 Method: `insertionSort`
 
 Work Time: 1 Hour Blog + 1 Hour Code and Test
+
+
+### Challenge 27
+
+
+
+[BLOG](challengesreadmes/challenge-27/BLOG.md)
+
+Method: `mergeSort`
+
+Work Time: 1 Hour Blog

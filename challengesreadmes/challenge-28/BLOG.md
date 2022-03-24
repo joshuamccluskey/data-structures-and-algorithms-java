@@ -11,7 +11,7 @@ that are smaller than the pivot are on the left side and the greater than the
 pivot are on the right side. Think of it like a low side and a high side which is 
 organized based on the pivot point.
 
-[quick sort]
+![quick sort](img/quick-sort.png)
 
 ````Java
 //ALGORITHM QuickSort(arr, left, right)

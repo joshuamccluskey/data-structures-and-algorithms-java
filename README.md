@@ -253,3 +253,22 @@ Work Time: 1 Hour Blog + 1 Hour Code and Test
 Method: `mergeSort`
 
 Work Time: 1 Hour Blog
+
+### Challenge 28
+
+
+
+[BLOG](challengesreadmes/challenge-28/BLOG.md)
+
+ `quickSort`
+
+Work Time: 1 Hour Blog
+
+## Challenge 30
+
+[Challenge 30 README]()
+
+Method:`set(); get(); contains(); keys(); hash()`
+
+Work Time: 1 Hour
+

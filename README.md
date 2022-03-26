@@ -260,6 +260,15 @@ Work Time: 1 Hour Blog
 
 [BLOG](challengesreadmes/challenge-28/BLOG.md)
 
-Method: `quickSort`
+ `quickSort`
 
 Work Time: 1 Hour Blog
+
+## Challenge 30
+
+[Challenge 30 README]()
+
+Method:`set(); get(); contains(); keys(); hash()`
+
+Work Time: 1 Hour
+

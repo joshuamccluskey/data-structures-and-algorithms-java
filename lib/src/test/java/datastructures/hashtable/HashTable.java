@@ -11,7 +11,7 @@ public class HashTable<K, V>
     ArrayList<LinkedList<HashMapPair<K, V>>> bucketArrayList;  // using ArrayList instead of array so we can instantiate with a parameterized type
     int size;
 
-    public HashMap(int size)
+    public HashTable(int size)
     {
         if (size < 1)
         {

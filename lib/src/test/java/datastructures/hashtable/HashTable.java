@@ -8,7 +8,7 @@ package datastructures.hashtable;
 // WARNING: Don't make K an Object or Character!
 public class HashTable<K, V>
 {
-    ArrayList<LinkedList<HashMapPair<K, V>>> bucketArrayList;  // using ArrayList instead of array so we can instantiate with a parameterized type
+    ArrayList<LinkedList<HashTablePair<K, V>>> bucketArrayList;  // using ArrayList instead of array so we can instantiate with a parameterized type
     int size;
 
     public HashTable(int size)

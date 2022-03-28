@@ -3,6 +3,7 @@ package datastructures.hashtable;
         import java.util.ArrayList;
         import java.util.LinkedList;
         import java.util.List;
+        import java.util.function.Predicate;
 
 // NOTE: Does NOT preserve insertion order!
 // WARNING: Don't make K an Object or Character!
@@ -42,7 +43,11 @@ public class HashTable<K, V>
 
     public boolean contains(K key)
     {
-        // TODO: implement me
+        while ( this.bucketArrayList != null) {
+            if (key.equals(bucketArrayList.stream().anyMatch((Predicate<? super LinkedList<HashTablePair<K, V>>>) key))){
+                return true;
+            }
+        }
         return false;
     }
 

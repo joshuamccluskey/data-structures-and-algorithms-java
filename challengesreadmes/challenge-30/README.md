@@ -19,7 +19,7 @@ Create a hash table and create methods set(); get(); contains(); keys(); hash()
 
 - set() -  a robust method that will hash and set the key and set the value pair and handle collisions
 
-- get() - returns the vaule of a key
+- get() - returns the value of a key
 
 - contains() -  returns boolean if Hask Table conatains a key
 

@@ -266,9 +266,16 @@ Work Time: 1 Hour Blog
 
 ## Challenge 30
 
-[Challenge 30 README]()
+[Challenge 30 README](challengesreadmes/challenge-30/README.md)
 
 Method:`set(); get(); contains(); keys(); hash()`
 
 Work Time: 1 Hour
 
+## Challenge 31
+
+[Challenge 31 README](challengesreadmes/challenge-31/README.md)
+
+Method:`repeatedWords`
+
+Work Time: 1 Hour

@@ -279,3 +279,11 @@ Work Time: 1 Hour
 Method:`repeatedWords`
 
 Work Time: 1 Hour
+
+## Challenge 32
+
+[Challenge 32 README](challengesreadmes/challenge-32/README.md)
+
+Method:`tree-intersection`
+
+Work Time: 1 Hour

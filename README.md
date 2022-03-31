@@ -287,3 +287,11 @@ Work Time: 1 Hour
 Method:`tree-intersection`
 
 Work Time: 1 Hour
+
+## Challenge 33
+
+[Challenge 33 README](challengesreadmes/challenge-33/README.md)
+
+Method:`leftJoin`
+
+Work Time: TBD

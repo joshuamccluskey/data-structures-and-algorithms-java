@@ -295,3 +295,11 @@ Work Time: 1 Hour
 Method:`leftJoin`
 
 Work Time: TBD
+
+## Challenge 36
+
+[Challenge 36 README](challengesreadmes/challenge-36/README.md)
+
+Method:`graphBreadthSearch`
+
+Work Time: TBD
